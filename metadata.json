@@ -1,0 +1,7 @@
+{
+  "name": "Saree.AI - Virtual Try-On",
+  "description": "Experience realistic virtual saree try-on powered by Gemini 3 Pro. Upload your photo and a saree image to see the magic.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
